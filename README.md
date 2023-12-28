@@ -1,1 +1,1 @@
-this is a copy of the truechats catalog just for testing purposes. the Officaial gihub page of truechats is [here]([url](https://github.com/truecharts/charts)https://github.com/truecharts/charts).
+this is a copy of the truechats catalog just for testing purposes. the Officaial gihub page of truechats is [here](here[url](https://github.com/truecharts/charts)https://github.com/truecharts/charts).
